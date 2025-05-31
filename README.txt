@@ -2,4 +2,6 @@ Due to several iterations of this research project. The code at this stage is an
 
 The seurat object for the analysis is too large to be uploaded to github. The metadata, expression and tSNE data is available at single cell portal SCP1403 (intestine), SCP1404 (liver), SCP1405 (adipose), SCP1406 (hypothalamus) and SCP1407 (hypothalamus neurons). 
 
-YEN-WEI CHEN
+Author: YEN-WEI CHEN
+
+Contact: Xia Yang (xyang123@ucla.edu)
